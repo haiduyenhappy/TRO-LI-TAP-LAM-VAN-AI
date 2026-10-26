@@ -1,0 +1,7 @@
+{
+  "name": "Trợ Lí Tập Làm Văn AI",
+  "description": "Ứng dụng hỗ trợ học sinh tiểu học và trung học cơ sở lập dàn ý và nhận góp ý cho bài tập làm văn bằng trí tuệ nhân tạo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
